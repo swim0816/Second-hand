@@ -131,6 +131,8 @@
 }
 ._图片 {
 }
+._图片_ {
+}
 ._图片1 {
 }
 .line1 {
@@ -163,5 +165,21 @@
 }
 .image1 {
   color:#000000;
+}
+._图片2 {
+  color:#000000;
+}
+.text_area {
+  color:#000000;
+  text-align:left;
+}
+.label2 {
+  font-family:'ArialMT', 'Arial', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+.shape2 {
 }
 textarea, select, input, button { outline: none; }
