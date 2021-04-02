@@ -1347,8 +1347,9 @@
   visibility:hidden;
 }
 #u559 {
-  position:absolute;
-  left:0px;
+  position:fixed;
+  left:50%;
+  margin-left:-188px;
   top:0px;
 }
 #u559_state0 {

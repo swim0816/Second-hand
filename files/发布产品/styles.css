@@ -884,7 +884,7 @@
 #u429 {
   border-width:0px;
   position:absolute;
-  left:283px;
+  left:277px;
   top:254px;
   width:92px;
   height:20px;
@@ -893,7 +893,7 @@
   font-weight:400;
   font-style:normal;
   font-size:14px;
-  color:#9A9A9A;
+  color:#F20707;
 }
 #u429 .text {
   position:absolute;
@@ -1690,6 +1690,9 @@
   width:375px;
   height:50px;
   display:flex;
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
   font-size:14px;
   text-align:left;
 }
@@ -2447,8 +2450,9 @@
   visibility:hidden;
 }
 #u473 {
-  position:absolute;
-  left:0px;
+  position:fixed;
+  left:50%;
+  margin-left:-188px;
   top:0px;
 }
 #u473_state0 {
